@@ -1,4 +1,4 @@
-@url = http://localhost:6000/Producto
+@url = http://localhost:6000/Productos
 
 GET {{url}}
 
@@ -9,10 +9,10 @@ POST {{url}}
 Content-Type: application/json
 
 {
-    "Nombre": "",
-    "Precio": "",
-    "Codigo": "",
-    "Existencia":""
+    "Nombre": "Producto Uno",
+    "Precio": "Q200",
+    "Codigo": "123ABC",
+    "Existencia":"32"
 }
 
 ###
