@@ -9,9 +9,10 @@ POST {{url}}
 Content-Type: application/json
 
 {
-    "name": "Carlos",
-    "pass": "<img src=\"/\" onerror=\"alert('hacked')\" ></img>",
-    "email": "cmarroquin@miumg.edu.gt"
+    "Nombre": "",
+    "Precio": "",
+    "Codigo": "",
+    "Existencia":""
 }
 
 ###
@@ -19,9 +20,9 @@ PUT {{url}}/1
 Content-Type: application/json
 
 {
-    "name": "Marco",
-    "pass": "Cambie mi contrase;a",
-    "email": "mvaldeza2@miumg.edu.gt"
+    "Nombre": "",
+    "Precio": "",
+    "Existencia":""
 }
 
 ###
