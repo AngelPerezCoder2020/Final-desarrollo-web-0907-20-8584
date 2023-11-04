@@ -1,4 +1,4 @@
-@url = http://localhost:6000/Productos
+@url = http://localhost:6000/Producto
 
 GET {{url}}
 
