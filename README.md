@@ -10,3 +10,5 @@
     SQLSERVER_ROOT_PASSWORD
     SQLSERVER_DATABASE
     SQLSERVER_SERVIDOR
+
+#debemos tener una libreria que nos ayuda a mapiar las variables de entorno desde el archivo .env la cual es = dotenv@16.0.0
